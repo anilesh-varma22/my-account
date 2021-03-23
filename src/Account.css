@@ -1,0 +1,18 @@
+.App{
+    text-align: center;
+    background-color: rgb(107, 160, 26);
+}
+
+button{
+    margin-left:10px;
+    border-radius: 10px;
+}
+
+input{
+    border-radius: 10px;
+}
+
+button:hover{
+    color:white;
+    background-color: rgb(191, 138, 147);
+}
